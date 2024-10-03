@@ -1,11 +1,10 @@
-<h1>Hey there! I'm Zac! </h1>
-<h3>  <a href="https://www.linkedin.com/in/zac-turner/">IT SysAdmin</a>
+<h1>Hey there! I'm Zac! </h1>  
+<br/>
+<a href="https://www.linkedin.com/in/zac-turner/">IT SysAdmin</a></h1>
   <br/>
-  Professional Nerd, Amateur Musician, Dog Dad, Family Man</h3>
+  Professional Nerd, Amateur Musician, Dog Dad, Family Man
 
-<h3>What I'm Working On:</h3>
-  <b>Cybersecurity Projects</b>
-  <br/>
+<h3>Cybersecurity Projects:</h3>
   
 - <b>Example</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -16,7 +15,7 @@
 - <b>Example</b>
   - Example Project
 
-  <b>IT Projects</b>
+<h3>IT Projects</h3>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
