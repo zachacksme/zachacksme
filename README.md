@@ -1,6 +1,7 @@
-<h1>Hi, I'm Zac! <br/><a href="https://github.com/zachacksme">IT Professional</a> <a href="https://www.linkedin.com/in/zac-turner/"></h1>
+<h1>Hi, I'm Zac! <br/>
+  <a href="https://www.linkedin.com/in/zac-turner/"><IT Professional</a>/h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - <b>Example</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -13,7 +14,11 @@
 
 - <b>Example</b>
 
-<h2>📺 IT Projects</h2>
+<h2>IT Projects</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2>Things I'm Learning</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
