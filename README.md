@@ -5,28 +5,33 @@
 </h1>
 
 <h3>What am I working on?</h3>
+PS: My Github is a little lacking currently, but I have a ton of projects I've worked on from coursework, labs, and things I've done for my job. This will be getting more fleshed out when I have more freetime.
 <h3>Past Cybersecurity Projects:</h3>
   
 - <b>Labs</b>
   - [Vulnerability Scanning with OpenVAS](https://github.com/zachacksme/NDG-VulnerabilityScanning)
+  - [CFSS Cyber Crime Analyst (Internship)](https://github.com/zachacksme/NDG-VulnerabilityScanning)
 
 <h3>Current Cybersecurity Projects:</h3>
-- <b>Example</b>
-  - [Ransomware Proof of Concept (Encrypter)]
 
 - <b>Example</b>
-  - Example Project
+  - [Example Project]
 
 <h3>IT Projects</h3>
 
 - <b>Example</b>
-    - [Ransomware Proof of Concept (Encrypter)]
+  - [Example Project]
 
 <h2>Things I'm Learning</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- Insert Youtube/Course here
-- Insert More
+- OSINT Techniques
+  - KASE Scenarios OSINT Training
+    https://courses.kasescenarios.com/collections/
+  - PURSUIT Group
+    https://guardiangroup.org/pursuit-group-academy/
+- Python and SQL
+- Threat Intelligence
+- Governance, Risk, and Compliance
 
 <h2> Get in touch with me:</h2>
 
