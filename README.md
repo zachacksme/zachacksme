@@ -1,18 +1,18 @@
 <h1>
-  Hey there! I'm Zac!
+  <b>Hey there! I'm Zac!</b> 
+<br />
+  <a href="https://www.linkedin.com/in/zac-turner/">Systems Administrator</a>, <a href="https://degreed.com/profile/zturner">Life Long Learner</a>, Amateur Internet Sleuth, Always Curious
 </h1>
-<h4>
-<a href="https://www.linkedin.com/in/zac-turner/">Systems Administrator</a>, <a href="https://degreed.com/profile/zturner">Life Long Learner</a>, Amateur Internet Sleuth, Always Curious
-</h4>
-  
-<h3>What am I working on?</h3>
-<h3>Cybersecurity Projects:</h3>
-  
-- <b>Example</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
+<h3>What am I working on?</h3>
+<h3>Past Cybersecurity Projects:</h3>
+  
+- <b>Labs</b>
+  - [Vulnerability Scanning with OpenVAS](https://github.com/zachacksme/NDG-VulnerabilityScanning)
+
+<h3>Current Cybersecurity Projects:</h3>
 - <b>Example</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Encrypter)]
 
 - <b>Example</b>
   - Example Project
@@ -20,7 +20,7 @@
 <h3>IT Projects</h3>
 
 - <b>Example</b>
-    - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+    - [Ransomware Proof of Concept (Encrypter)]
 
 <h2>Things I'm Learning</h2>
 
@@ -30,8 +30,8 @@
 
 <h2> Get in touch with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Website]
+[<img align="left" alt="ZacTurner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="zachacks.me | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Website]
 
 [linkedin]: https://linkedin.com/in/zac-turner
 [Website]: https://zachacks.me
