@@ -1,6 +1,6 @@
 ### Zac Milla — IT → Security
 
-Senior IT Sysadmin turned security practitioner.
+Senior IT Sysadmin & security practitioner.
 Endpoint IR, Zero Trust architecture, and OSINT —
 with a focus on building things I can actually use.
 
