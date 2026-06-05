@@ -1,71 +1,62 @@
-<h1>
- <b>Hey there! I'm Zac!</b>
-</h1>
+### Zac Milla — IT → Security
 
-<h3>
-  A little about me:
-<br />
-  <a href="https://www.linkedin.com/in/zac-turner/">Systems Administrator</a>, <a href="https://degreed.com/profile/zturner">Life Long Learner</a>, <a href="https://open.spotify.com/track/7hyEanYkS12xLidc3vKyC3?si=add973f0df52493c/">Music Lover</a>, Amateur Internet Sleuth, Always Curious
-</h3>
+Senior IT Sysadmin turned security practitioner.
+Endpoint IR, Zero Trust architecture, and OSINT —
+with a focus on building things I can actually use.
 
-<h3>What am I working on?</h3>
-PS: I'm aware my Github is a little lacking currently, but I have a ton of projects I've worked on from coursework, labs, and things I've done for my day job.
-This will be getting more fleshed out when I have more free time.
+I pull threads until I understand exactly what happened and why.
 
-<h3>Past Cybersecurity Projects:</h3>
-  
-- <b>Labs</b>
-  - [Vulnerability Scanning with OpenVAS](https://github.com/zachacksme/NDG-VulnerabilityScanning)
-    
- - <b>Coursework, Internships</b>
-   - [Forage - Mastercard Cybersecurity Job Simulation](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
-   - [CFSS Cyber Crime Analyst (Internship)](https://github.com/zachacksme/cfss-internship)
+That tendency pushed me from managing infrastructure toward investigating threats —
+through endpoint IR at work, OSINT volunteer investigations with
+[Guardian Group's Project 1591®](https://www.guardiangroup.org), and hands-on
+research in a purpose-built home lab.
 
-<h3>Current Cybersecurity Projects:</h3>
+I document what I'm learning: IR walkthroughs, OSINT methodology, homelab builds,
+and tools I actually use. Full writeups live at **[zacmilla.com](https://zacmilla.com)**.
 
-- <b>Example</b>
-  - [Example Project]
+## 🔭 What I'm working on
 
-<h3>IT Projects, Scripts, etc.</h3>
+- Malware analysis — detonating samples in an air-gapped VLAN 66 sandbox (Proxmox)
+- CTI methodology — MITRE ATT&CK mapping, IOC pivoting, adversary attribution
+- OSINT investigations — passive collection via Maltego, SpiderFoot, CSI Linux
+- Scripting — Python and Bash tooling for security workflows and IT automation
 
-- <b>Jamf Pro</b>
-  - [Example Project]
-  - [Example Project]
-- <b>Microsoft</b>
-  - [Example Project]
-  - [Example Project]
+## 📌 Featured
 
-<h2>Things I'm Learning</h2>
+| Project | Description |
+|---|---|
+| [InstallFix Infostealer IR Walkthrough](https://zacmilla.com/blog/installfix-blog_post) | Full attack chain reconstruction — 6 phases, 96 seconds, macOS EDR telemetry via SentinelOne |
+| [homelab](https://github.com/zacmilla/homelab) | Proxmox lab: segmented VLANs, air-gapped malware sandbox, VPN-routed OSINT VM |
+| [NDG-VulnerabilityScanning](https://github.com/zacmilla/NDG-VulnerabilityScanning) | OpenVAS vulnerability scanning lab |
+| [cfss-internship](https://github.com/zacmilla/cfss-internship) | Cyber crime analyst internship — case notes and analysis report |
 
-- OSINT Techniques
-  - <b>KASE Scenarios OSINT Training</b>
-    https://courses.kasescenarios.com/collections/
-  - <b>PURSUIT Group</b>
-    https://guardiangroup.org/pursuit-group-academy/
-- Python and SQL
-- Threat Intelligence
-- Governance, Risk, and Compliance
-  - <b>TCM Security - Definitive GRC Analyst Masterclass</b>
-    https://academy.tcm-sec.com/courses/
+## 🛠️ Skills & Tools
 
-<h2> Get in touch with me:</h2>
+**Security**
+`SentinelOne` `EDR` `Incident Response` `Zero Trust` `SOC 2` `ISO 27001`
 
-[<img align="left" alt="ZacTurner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="zachacks.me | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Website]
+**Identity & Endpoint**
+`Microsoft Entra ID` `Conditional Access` `Intune` `Jamf Pro` `Automox` `SAML/OIDC`
 
-[linkedin]: https://linkedin.com/in/zac-turner
-[Website]: https://zachacks.me
+**Threat Intel & OSINT**
+`Maltego` `SpiderFoot` `Shodan` `VirusTotal` `CSI Linux` `MITRE ATT&CK`
 
+**Scripting & Automation**
+`PowerShell` `Bash` `Python`
 
-<!--
-Here are some ideas to get you started:
+## 📜 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CompTIA Security+
+- ISC2 Certified in Cybersecurity (CC)
+
+## 🤝 Volunteering
+
+**[Guardian Group — Project 1591®](https://www.guardiangroup.org)**
+Passive OSINT investigations supporting U.S. law enforcement in identifying
+underage trafficking victims.
+
+## 📬 Connect
+
+[![Website](https://img.shields.io/badge/zacmilla.com-000000?style=flat&logo=About.me&logoColor=white)](https://zacmilla.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zac-milla)
+[![Email](https://img.shields.io/badge/hello@zacmilla.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@zacmilla.com)
